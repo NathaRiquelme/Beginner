@@ -1,6 +1,6 @@
 # Import libraries
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 import seaborn as sns
 
 # Read dataset into a pandas DataFrame
